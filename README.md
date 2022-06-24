@@ -20,12 +20,13 @@
 <br><br>
 
 ## ⚙️ &nbsp;GitHub Analytics
-
+<div>
+  <a href="https://github.com/BrunoSCamargo">
 <p align="left">
 <img width="530em" src="https://github-readme-stats.vercel.app/api?username=BrunoSCamargo&show_icons=true&theme=vision-friendly-dark" alt="Bruno Camargo's stats"/>
 <img width="530em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BrunoSCamargo&layout=compact&theme=vision-friendly-dark" alt="Bruno Camargo's most languages"/>
-</p>
-
+</p><a>
+</div>
 <br><br>
 
 ## 👨🏽‍🦲 &nbsp;Social Links
