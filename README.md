@@ -29,7 +29,7 @@
 </div>
 <br><br>
 
-## 👨🏽‍🦲 &nbsp;Social Links
+## 👦🏻 &nbsp;Social Links
 
 <a href="https://www.linkedin.com/in/bruno-camargo-b88a0723a/" target="_blank">
   <img align="center" src="https://img.shields.io/badge/-BrunoCamargo-05122A?style=flat&logo=linkedin" alt="linkedin"/>
