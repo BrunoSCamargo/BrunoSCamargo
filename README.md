@@ -26,7 +26,7 @@ I'm a Web Developer. And, I'm studying web development at [Rocketseat](https://r
 <br><br>
 
 - ⚡ Fun fact **Oneye 😜**
-- Email: Bruno_camargoSC@hotmail.com
+- 📫 Email: Bruno_camargoSC@hotmail.com
 <br><br>
 
 ## 🛠 &nbsp;Tech Stack
