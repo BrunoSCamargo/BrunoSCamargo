@@ -1,12 +1,32 @@
 <h1 align="left">Hi <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px">, I'm Bruno Camargo</h1>
 <!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=maykbrito&color=yellow" alt="Profile views" /> </p> -->
 
-- 🔥 I'm a web development student!
+- 🔥 I'm a web development fullstack!
 
-- 💬 Ask me about **JavaScript, HTML, CSS**
+- 💬 Skills 
+#### About
+I'm a Web Developer. And, I'm studying web development at [Rocketseat](https://rocketseat .com.br/).
+
+#### Current stack
+
+- ⚡️ Main language: `Javascript`
+
+- 📝 Backend: `Nodejs`,
+
+- ✨ Frontend: `Reactjs`, `HTMLS`, `CSS3`, `Javascript`
+
+- 🎨 Layout Design: `Figna`
+
+- 📦️ Version code control: `Git & Github`
+
+- 🔨 Tools: `vscode`
+
+- 🌐 I'm mostly active within the “Rocketseat Community”
+
+<br><br>
 
 - ⚡ Fun fact **Oneye 😜**
-
+- Email: Bruno_camargoSC@hotmail.com
 <br><br>
 
 ## 🛠 &nbsp;Tech Stack
