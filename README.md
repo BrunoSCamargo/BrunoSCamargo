@@ -37,7 +37,7 @@ I'm a Web Developer. And, I'm studying web development at [Rocketseat](https://r
 ![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
 
-<br><br>
+<img src="https://media.licdn.com/dms/image/C4D22AQFY5UfTWNrcyA/feedshare-shrink_800/0/1672867894250?e=1675900800&v=beta&t=tdm2GJTqgN3M-n-4kh361rVM1Gl4RefxPJdA5wrA7kI" height="500">
 
 ## ⚙️ &nbsp;GitHub Analytics
 <div>
